@@ -1,1 +1,9 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"></xml>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="movement_left" id="40" x="265" y="0">
+    <next>
+      <block type="led_select" id="15" inline="true">
+        <field name="ACTION">ON</field>
+      </block>
+    </next>
+  </block>
+</xml>
